@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Dhruva V Kidadumbe
 
-<!--
-**Dhruvavk/Dhruvavk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Graduate  
+🐍 Python Learner | Open Source Contributor  
+🚀 Google Summer of Code (GSoC) Aspirant  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- I am an ECE graduate exploring **software and systems development**
+- Currently learning **Python and Open Source workflows**
+- Actively contributing to open-source projects
+- Aspiring to participate in **Google Summer of Code**
+
+---
+
+## 🛠️ Skills
+- Programming: Python (Beginner)
+- Tools: Git, GitHub
+- Concepts: Problem Solving, Version Control
+
+---
+
+## 📌 Current Focus
+- Making consistent open-source contributions
+- Improving Python programming skills
+- Preparing a strong profile for **GSoC**
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/dhruva-v-kidadumbe-563106207
+- 🧑‍💻 GitHub: https://github.com/Dhruvavk
